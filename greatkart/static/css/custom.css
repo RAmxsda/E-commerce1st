@@ -58,3 +58,7 @@
     height: 80px;
     border: 1px solid grey;
   }
+
+  .rating-star i{
+    color: #cc9000 !important;
+  }
